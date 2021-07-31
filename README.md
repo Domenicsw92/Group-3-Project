@@ -1,4 +1,5 @@
 # Group 3 Project 
+This was the final project 
 [![Status](https://img.shields.io/badge/Status-In_Progress-80DEEA?style=for-the-badge&link=https://github.com/kaivont85/Group-3-Project)](https://github.com/kaivont85/Group-3-Project)
 
 [![React](https://img.shields.io/badge/React-Technology_Used-000000?labelColor=d1d1d1&style=for-the-badge&logo=React&link=https://github.com/kaivont85/Group-3-Project)](https://github.com/kaivont85/Group-3-Project)
