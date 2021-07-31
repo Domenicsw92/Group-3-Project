@@ -42,9 +42,9 @@ export const SAVE_PHOTO = gql`
       _id
       username
       email
-      savedPhoto {
+      savedPhotos {
         photoId
-        author
+        authors
         image
         description
         title
